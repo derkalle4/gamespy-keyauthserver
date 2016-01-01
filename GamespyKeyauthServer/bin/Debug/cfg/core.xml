@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UDPHeartbeatPort>29910</UDPHeartbeatPort>
+  <UDPHeartbeatAddress>0.0.0.0</UDPHeartbeatAddress>
+  <LogToFile>false</LogToFile>
+  <LogFileName>/log.txt</LogFileName>
+  <Loglevel>0</Loglevel>
+  <MySQLHostname>localhost</MySQLHostname>
+  <MySQLPort>3306</MySQLPort>
+  <MySQLDatabase>swbf2</MySQLDatabase>
+  <MySQLUsername>root</MySQLUsername>
+  <MySQLPwd />
+</CoreConfig>
